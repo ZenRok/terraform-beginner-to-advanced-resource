@@ -16,5 +16,5 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 
    [PlDa]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Terraform%20Cloud/sentinel-policy.tf>
    [PlDb]: <https://github.com/zealvora/terraform-beginner-to-advanced-resource/blob/master/Terraform%20Cloud/remote-backend.md>
-   # This is a test
+   
 
